@@ -1,0 +1,94 @@
+.bio {
+  width: 750px;
+  background-color: #E5E2E8;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.career {
+  width: 750px;
+  background-color: #E5E2E8;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+img.profile {
+  float: right;
+  height: 230px;
+  width: 375px;
+  margin: 6px 0px 0px 10px;
+  padding: 2px;
+  border: 3px solid #23236B;
+}
+
+.life {
+  margin-top: 25px;
+}
+
+hr {
+  margin-bottom: 25px;
+}
+
+.links {
+  font-size: 17px;
+}
+
+.background {
+  width: 100%;
+  height: 50px;
+}
+
+.radiohead_pic {
+  width: 350px;
+  height: 250px;
+  border: #0A0013 solid 3px;
+  padding: 2px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  float: left;
+  clear: left;
+}
+
+strong {
+  font-size: 20px;
+}
+
+.moon {
+  float: left;
+  width: 30%;
+  height: 30%;
+  border: grey solid 3px;
+  margin: 15px 0px 30px 20px;
+  padding: 5px;
+}
+
+.rdhd {
+  margin-left: 20px;
+  float: left;
+  width: 100px;
+  clear: left;
+}
+
+.highlights {
+  margin-left: 20px;
+  clear: left;
+}
+
+.mini_logo {
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin-left: 70px;
+  margin-top: 21px;
+}
+
+li {
+  margin-top: 10px;
+}
+
+.band_name {
+  font-style: normal;
+  font-weight: bold;
+}
+
+
